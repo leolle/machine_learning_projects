@@ -1,0 +1,13 @@
+含金量极高的点击率预估
+
+* 电商点击率预估
+
+** 知识点:
+*** 问题的引入
+*** 可获取的资源渠道
+*** 数据获取
+*** 数据组织
+*** 问题解决思路
+** key points:
+- 问题设定，特征处理，构建基于LR的baseline CTR预估系统：使用liblinear与spark
+- 使用深度学习自动学习特征表示，google wide&deep model，FNN&PNN

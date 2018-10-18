@@ -4,7 +4,7 @@ git add *
 # commit with shell input
 if [ -z "$*" ]
 then
-    git commit -m "update notes"
+    git commit -m "update"
 else
     git commit -m "$*"
 fi

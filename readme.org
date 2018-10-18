@@ -3,22 +3,22 @@
 - 聚类与协同过滤、协同过滤优化与代码实现
 - 推荐系统优化：隐语义模型，深度学习与用户序列建模，海量数据下的spark构建推荐系统
 
-* 神经网络实现机器翻译
+* [[file:./machine_translation][神经网络实现机器翻译]]
 - 用PyTorch实现一个Encoder-decoder神经网络机器翻译模型
 
-* 基于pytorch的风格转换
+* [[file:./style_picture][基于pytorch的风格转换]]
 - 学习并理解Facebook最新深度学习框架pytorch，利用pytorch实现简单的图片风格转换，让机器帮你作画
 
-* 文本主题与分类
+* [[file:./text_classification][文本主题与分类]]
 - 文本数据的主题提取与可视化，基于机器学习（朴素贝叶斯，SVM）的文本分类
 - 基于fasttext与其他深度学习方法的文本分类
 
-* 电商点击率预估
+* [[file:./e_commerce_CTR][电商点击率预估]]
 - 问题设定，特征处理，构建基于LR的baseline CTR预估系统：使用liblinear与spark
 - 使用深度学习自动学习特征表示，google wide&deep model，FNN&PNN
 
-* 视觉聊天机器人
+* [[file:./chatbot][视觉聊天机器人]]
 - 通过深度学习让聊天机器人告诉你图片中的复杂信息
 
-* 金融反欺诈模型训练
+* [[file:./credit_anti_fraud][金融反欺诈模型训练]]
 - 通过机器学习GBRT、RF、XGboost等算法训练建模解决信贷业务中欺诈用户预测的问题
